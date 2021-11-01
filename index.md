@@ -14,16 +14,16 @@ CHANGELOG:
 
 1-November-2021 - 
 
-v.1.01 released
-Launcher Added
-Discord Server Made
-Video Tutorials Made
-Background Hex Changed
-Play Button Changed
-Logo Changed
-Side Hex Changed
-Pills/Energiser colour Changed
-Pellet colour Changed
+v.1.01 released,
+ Launcher Added,
+ Discord Server Made,
+ Video Tutorials Made,
+ Background Hex Changed,
+ Play Button Changed,
+ Logo Changed,
+ Side Hex Changed,
+ Pills/Energiser colour Changed,
+ Pellet colour Changed,
 
 
 29-October-2021 - 
