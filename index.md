@@ -7,7 +7,7 @@ This game has been designed to feel exactly like PAC-MAN in the arcade, and migh
 
 DOWNLOADABLE VERSIONS
 
-[v.1.01](https://drive.google.com/file/d/1esWCuVkbXE_NRGx8fetnIhi-eGb4-zG3/view?usp=sharing),
+[v.1.01](https://drive.google.com/file/d/19ZcOeekddpEfo7X2ek0UJiUSy5RSY7N-/view?usp=sharing),
 [ALPHA v.1.0](https://apkadmin.com/mznvppw351i2/PACMAN-alphav1.0.html.html)
 
 
@@ -25,6 +25,7 @@ v.1.01 released,
  Side Hex Changed,
  Pills/Energiser colour Changed,
  Pellet colour Changed,
+ Slogan Added
 
 
 29-October-2021 - 
